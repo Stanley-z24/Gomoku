@@ -1,0 +1,17 @@
+# Gomoku
+
+
+## Description
+
+This program will run a Gomoku game using Java swing interface, it will also keep track of wins
+
+## Getting Started
+
+
+### Executing program
+
+```
+static ImageIcon bcircle = new ImageIcon(new ImageIcon("Your Black Circle here").getImage().getScaledInstance(50, 50, Image.SCALE_DEFAULT)); //Decaring variables
+static ImageIcon wcircle = new ImageIcon(new ImageIcon("Your White Circle here").getImage().getScaledInstance(60, 60, Image.SCALE_DEFAULT)); //(If needed changed \ to /)
+```
+* Image files will need to be added in order for program to work properly, you can add your own images, be sure to add the image path on the "Your Black/White Circle here"
